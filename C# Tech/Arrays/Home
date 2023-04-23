@@ -1,0 +1,157 @@
+//int[] array;
+//array = new int[10];
+
+//for (int i = 0; i < array.Length; i++)
+//{
+//    array[i] += i + 1;
+//}
+
+//Console.WriteLine(string.Join(" ", array));
+
+//foreach (var item in array)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+
+
+//var array1 = Console.ReadLine().Split().ToArray();
+//var array2 = Console.ReadLine().Split().ToArray();
+
+//for (int i = 0; i < array2.Length; i++)
+//{
+//	var element = array2[i];
+
+//	for (int j = 0; j < array1.Length; j++)
+//	{
+//		var element1 = array1[j];
+
+//		if (element1 == element)
+//		{
+//			Console.Write(element + " ");
+//			break;
+//		}
+//	}
+//}
+
+
+
+
+//var array1 = Console.ReadLine().Split().ToArray();
+//var array2 = Console.ReadLine().Split().ToArray();
+
+//bool areEqual = array1.OrderBy(x => x).SequenceEqual(array2.OrderBy(x => x));
+
+//if (areEqual)
+//{
+//    Console.WriteLine("The arrays have the same elements.");
+//}
+//else
+//{
+//    Console.WriteLine("The arrays do not have the same elements.");
+//}
+
+
+
+//  ZIG ZAG ARRAYS
+//var n = int.Parse(Console.ReadLine());
+//var resultArray = new int[n];
+//var resultArray1 = new int[n];
+
+//for (int i = 0; i < n; i++)
+//{
+//    var splitedNumbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+//    resultArray[i] += splitedNumbers[0];
+//    resultArray1[i] += splitedNumbers[1];
+
+//    if (i != 0 && i % 2 != 0)
+//    {
+//        resultArray[i] = splitedNumbers[1];
+//        resultArray1[i] = splitedNumbers[0];
+//    }
+//    else
+//    {
+//        resultArray[i] = splitedNumbers[0];
+//        resultArray1[i] = splitedNumbers[1];
+//    }
+//}
+//foreach (var splitedNumbers in resultArray)
+//{
+//    Console.Write(splitedNumbers + " ");
+//}
+//Console.WriteLine();
+//foreach (var splitedNumbers in resultArray1)
+//{
+//    Console.Write(splitedNumbers + " ");
+//}
+
+
+
+
+//// ARRAY ROTATION
+//var array = Console.ReadLine().Split().ToArray();
+//var n = int.Parse(Console.ReadLine());
+
+//for (int i = 0; i < n; i++)
+//{
+//    var firstElement = array[0];
+
+//    for (int j = 0; j < array.Length - 1; j++)
+//    {
+//        array[j] = array[j + 1];
+//    }
+
+//    array[array.Length - 1] = firstElement;
+//}
+
+//for (int i = 0;i < array.Length; i++)
+//{
+//    Console.Write(array[i] + " ");
+//}
+
+
+
+//// TOP INTEGERS
+//using System.IO.IsolatedStorage;
+
+//var array = Console.ReadLine().Split().Select(int.Parse).ToArray();
+//var topIndex = 0;
+
+//for (int i = 1; i < array.Length; i++)
+//{
+//    if (array[i] > array[topIndex])
+//    {
+//        topIndex = i;
+//    }
+//}
+
+//for (int i = topIndex; i < array.Length; i++)
+//{
+//    Console.Write(array[i] + " ");
+//}
+
+
+
+
+// EQUAL SUMS
+//var array = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+//var leftSum = 0;
+//var rightSum = array.Sum();
+
+//for (var i = 0; i < array.Length; i++)
+//{
+//    rightSum -= array[i];
+
+//    if (leftSum == rightSum)
+//    {
+//        Console.WriteLine(i);
+//        return;
+//    }
+//    leftSum += array[i];
+//}
+
+//Console.WriteLine("no");
+

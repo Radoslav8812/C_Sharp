@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/bin/Debug/netcoreapp3.1/CommonElements.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Arrays/Arrays/CommonElements/obj/Debug/netcoreapp3.1/CommonElements.genruntimeconfig.cache
