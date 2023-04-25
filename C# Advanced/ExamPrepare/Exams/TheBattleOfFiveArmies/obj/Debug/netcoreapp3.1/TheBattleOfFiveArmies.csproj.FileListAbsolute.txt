@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/bin/Debug/netcoreapp3.1/TheBattleOfFiveArmies.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/TheBattleOfFiveArmies/obj/Debug/netcoreapp3.1/TheBattleOfFiveArmies.genruntimeconfig.cache

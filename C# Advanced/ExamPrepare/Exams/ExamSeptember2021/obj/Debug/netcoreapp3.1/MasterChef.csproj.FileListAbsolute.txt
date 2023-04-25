@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/bin/Debug/netcoreapp3.1/MasterChef.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Advanced/ExamSeptember2021/ExamSeptember2021/obj/Debug/netcoreapp3.1/MasterChef.genruntimeconfig.cache
