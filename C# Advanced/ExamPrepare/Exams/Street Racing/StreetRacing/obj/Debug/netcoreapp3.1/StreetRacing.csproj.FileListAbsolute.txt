@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing.deps.json
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing.dll
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/bin/Debug/netcoreapp3.1/StreetRacing.pdb
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.dll
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.pdb
+/Users/radoslavbogdanov/Downloads/03. Street Racing_Skeleton/StreetRacing/obj/Debug/netcoreapp3.1/StreetRacing.genruntimeconfig.cache

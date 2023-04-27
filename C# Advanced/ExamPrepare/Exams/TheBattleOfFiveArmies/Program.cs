@@ -9,8 +9,7 @@ namespace TheBattleOfFiveArmies
         static void Main(string[] args)
         {
             int armor = int.Parse(Console.ReadLine());
-            int n = int.Parse(Console.ReadLine());
-             
+            int n = int.Parse(Console.ReadLine());      
             var matrix = new char[n][];
 
             for (int i = 0; i < n; i++)
@@ -20,8 +19,9 @@ namespace TheBattleOfFiveArmies
             }
 
 
-            var heroRow = 0;
-            var heroCol = 0;
+            var heroRow = -1;
+            var heroCol = -1;
+
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < matrix[i].Length; j++)
@@ -36,7 +36,7 @@ namespace TheBattleOfFiveArmies
 
             while (true)
             {
-                var commandLine = Console.ReadLine().Split(' ');
+                var commandLine = Console.ReadLine().Split();
                 var command = commandLine[0];
                 var orcRow = int.Parse(commandLine[1]);
                 var orcCol = int.Parse(commandLine[2]);
@@ -48,48 +48,48 @@ namespace TheBattleOfFiveArmies
                 if (command == "up" && heroRow - 1 >= 0)
                 {
                     heroRow--;
+                    armor--;
                 }
-                else if (command == "down" && heroRow + 1 < matrix[heroCol].Length)
+                else if (command == "down" && heroRow + 1 < n)
                 {
                     heroRow++;
+                    armor--;
                 }
                 else if (command == "left" && heroCol - 1 >= 0)
                 {
                     heroCol--;
+                    armor--;
                 }
                 else if (command == "right" && heroCol + 1 < matrix[heroRow].Length)
                 {
                     heroCol++;
-                }
-
-                if (matrix[heroRow][heroCol] == 'M')
-                {
-                    matrix[heroRow][heroCol] = '-';
-                    Console.WriteLine($"The army managed to free the Middle world! Armor left: {armor}");
-                    break;
+                    armor--;
                 }
 
                 if (matrix[heroRow][heroCol] == 'O')
                 {
                     armor -= 2;
-                    matrix[heroRow][heroCol] = 'A';
                 }
 
+                if (matrix[heroRow][heroCol] == 'M')
+                {
+                    matrix[heroRow][heroCol] = '-';
+                    Console.WriteLine($"The army managed to free the Middle World! Armor left: {armor}");
+                    break;
+                }
                 if (armor <= 0)
                 {
                     matrix[heroRow][heroCol] = 'X';
-                    Console.WriteLine($"The army was defeated at {heroRow};{heroCol}");
+                    Console.WriteLine($"The army was defeated at {heroRow};{heroCol}.");
                     break;
                 }
+
+                matrix[heroRow][heroCol] = 'A';
             }
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < matrix[i].Length; j++)
-                {
-                    Console.Write(matrix[i][j]);
-                }
-                Console.WriteLine();
+                Console.WriteLine(new string(matrix[i]));
             }
         }
     }
