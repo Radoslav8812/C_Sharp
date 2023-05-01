@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/bin/Debug/netcoreapp3.1/AppendArrays.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/AppendArrays/obj/Debug/netcoreapp3.1/AppendArrays.genruntimeconfig.cache

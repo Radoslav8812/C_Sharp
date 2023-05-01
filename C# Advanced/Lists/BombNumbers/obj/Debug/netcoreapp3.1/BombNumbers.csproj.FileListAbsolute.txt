@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/bin/Debug/netcoreapp3.1/BombNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/BombNumbers/obj/Debug/netcoreapp3.1/BombNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/bin/Debug/netcoreapp3.1/ListOperations.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ListOperations/obj/Debug/netcoreapp3.1/ListOperations.genruntimeconfig.cache

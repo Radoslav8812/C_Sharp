@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/bin/Debug/netcoreapp3.1/HouseParty.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/HouseParty/obj/Debug/netcoreapp3.1/HouseParty.genruntimeconfig.cache

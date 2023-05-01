@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/bin/Debug/netcoreapp3.1/ChangeList.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/ChangeList/obj/Debug/netcoreapp3.1/ChangeList.genruntimeconfig.cache

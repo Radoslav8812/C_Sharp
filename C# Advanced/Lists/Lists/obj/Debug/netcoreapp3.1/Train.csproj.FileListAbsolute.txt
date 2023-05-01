@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/bin/Debug/netcoreapp3.1/Train.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/Lists/obj/Debug/netcoreapp3.1/Train.genruntimeconfig.cache

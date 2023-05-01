@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/bin/Debug/netcoreapp3.1/CardGame.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Lists/Lists/CardGame/obj/Debug/netcoreapp3.1/CardGame.genruntimeconfig.cache
