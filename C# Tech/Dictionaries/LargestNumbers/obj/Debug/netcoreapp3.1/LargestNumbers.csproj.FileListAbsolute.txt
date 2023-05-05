@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/bin/Debug/netcoreapp3.1/LargestNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/LargestNumbers/obj/Debug/netcoreapp3.1/LargestNumbers.genruntimeconfig.cache
