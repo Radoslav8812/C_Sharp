@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5hPe3emW1ZmfZg+tCSVl5dfDd12dBEQaWsQxIxgJCVZHqWajB5qLbAJoJt9KLSvLlqz6m9obRyOlljTA+3jXw==",
+  "dgSpecHash": "5nq2xXyz7xmahWzzcTquTH5vnn/EntBk/erXB75ErHjbQLALC4rk1bkJCfbbHn93/nWZbUX9gxdidyGTrOkuzg==",
   "success": true,
-  "projectFilePath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/Lecture.csproj",
+  "projectFilePath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/CountRealNumbers.csproj",
   "expectedPackageFiles": [
     "/Users/radoslavbogdanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/radoslavbogdanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

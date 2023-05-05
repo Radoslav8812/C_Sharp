@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/bin/Debug/netcoreapp3.1/CountRealNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/Debug/netcoreapp3.1/CountRealNumbers.genruntimeconfig.cache

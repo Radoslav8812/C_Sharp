@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/Lecture.csproj",
-      "projectName": "Lecture",
-      "projectPath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/Lecture.csproj",
+      "projectUniqueName": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/CountRealNumbers.csproj",
+      "projectName": "CountRealNumbers",
+      "projectPath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/CountRealNumbers.csproj",
       "packagesPath": "/Users/radoslavbogdanov/.nuget/packages/",
-      "outputPath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/",
+      "outputPath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/CountRealNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/radoslavbogdanov/.nuget/NuGet/NuGet.Config"
