@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace Train
 {
@@ -9,23 +7,17 @@ namespace Train
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
-            int[] array = new int[n];
+            int[] arr = new int[n];
+            int sum = 0;
 
             for (int i = 0; i < n; i++)
             {
-                var people = int.Parse(Console.ReadLine());
-                array[i] += people;
+                int peoples = int.Parse(Console.ReadLine());
+                arr[i] = peoples;
+                sum += peoples;
             }
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.Write(array[i] + " ");
-            }
-            Console.WriteLine();
-
-            Console.WriteLine(array.Sum());
+            Console.WriteLine(string.Join(" ", arr));
+            Console.WriteLine(sum);
         }
     }
 }
-
