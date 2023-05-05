@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/bin/Debug/netcoreapp3.1/MinerTask.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/MinerTask/obj/Debug/netcoreapp3.1/MinerTask.genruntimeconfig.cache
