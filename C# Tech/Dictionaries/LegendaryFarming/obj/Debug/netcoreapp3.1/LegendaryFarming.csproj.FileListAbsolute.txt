@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/bin/Debug/netcoreapp3.1/LegendaryFarming.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/LegendaryFarming/obj/Debug/netcoreapp3.1/LegendaryFarming.genruntimeconfig.cache
