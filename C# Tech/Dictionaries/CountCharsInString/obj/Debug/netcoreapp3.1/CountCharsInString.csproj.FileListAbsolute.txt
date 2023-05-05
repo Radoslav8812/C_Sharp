@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/bin/Debug/netcoreapp3.1/CountCharsInString.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/CountCharsInString/obj/Debug/netcoreapp3.1/CountCharsInString.genruntimeconfig.cache
