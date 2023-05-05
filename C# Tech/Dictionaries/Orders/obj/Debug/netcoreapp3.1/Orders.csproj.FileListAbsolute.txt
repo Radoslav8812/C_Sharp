@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/bin/Debug/netcoreapp3.1/Orders.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Orders/obj/Debug/netcoreapp3.1/Orders.genruntimeconfig.cache
