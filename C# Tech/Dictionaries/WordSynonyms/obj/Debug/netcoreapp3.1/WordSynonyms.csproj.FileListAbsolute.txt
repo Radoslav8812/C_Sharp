@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/bin/Debug/netcoreapp3.1/WordSynonyms.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/WordSynonyms/obj/Debug/netcoreapp3.1/WordSynonyms.genruntimeconfig.cache
