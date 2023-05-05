@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/bin/Debug/netcoreapp3.1/Lecture.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/Lecture/Lecture/obj/Debug/netcoreapp3.1/Lecture.genruntimeconfig.cache
