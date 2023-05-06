@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/bin/Debug/netcoreapp3.1/StudentAcademy.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Dictionaries/StudentAcademy/obj/Debug/netcoreapp3.1/StudentAcademy.genruntimeconfig.cache
