@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/bin/Debug/netcoreapp3.1/ComputerStore.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Tech/Midd Exams/ComputerStore/ComputerStore/obj/Debug/netcoreapp3.1/ComputerStore.genruntimeconfig.cache
