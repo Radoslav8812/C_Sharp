@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/bin/Debug/netcoreapp3.1/MiddleChars.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/MiddleChars/obj/Debug/netcoreapp3.1/MiddleChars.genruntimeconfig.cache
