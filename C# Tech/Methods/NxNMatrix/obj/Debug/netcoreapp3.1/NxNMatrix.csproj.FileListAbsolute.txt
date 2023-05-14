@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/bin/Debug/netcoreapp3.1/NxNMatrix.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/NxNMatrix/obj/Debug/netcoreapp3.1/NxNMatrix.genruntimeconfig.cache
