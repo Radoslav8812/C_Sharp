@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/bin/Debug/netcoreapp3.1/PalindromeIntegers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/PalindromeIntegers/obj/Debug/netcoreapp3.1/PalindromeIntegers.genruntimeconfig.cache
