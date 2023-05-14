@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/bin/Debug/netcoreapp3.1/CharsInRange.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/CharsInRange/obj/Debug/netcoreapp3.1/CharsInRange.genruntimeconfig.cache
