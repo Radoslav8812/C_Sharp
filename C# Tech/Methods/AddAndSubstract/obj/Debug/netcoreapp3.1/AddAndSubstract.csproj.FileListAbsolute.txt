@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/bin/Debug/netcoreapp3.1/AddAndSubstract.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Methods/AddAndSubstract/obj/Debug/netcoreapp3.1/AddAndSubstract.genruntimeconfig.cache
