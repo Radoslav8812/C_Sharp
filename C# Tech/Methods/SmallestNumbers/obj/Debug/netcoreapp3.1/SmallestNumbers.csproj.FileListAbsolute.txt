@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/bin/Debug/netcoreapp3.1/SmallestNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/obj/Debug/netcoreapp3.1/SmallestNumbers.genruntimeconfig.cache

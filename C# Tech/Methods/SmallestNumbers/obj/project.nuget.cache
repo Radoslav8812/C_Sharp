@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CS6Q2fmKRY2Pf2Tll5fOxnwweG1opr+0wODjBvEGKaJAmG1Gs7g/TVxBllbzZIHaGb1/s4NL7XI+0GNZJAz9pA==",
+  "success": true,
+  "projectFilePath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/SmallestNumbers/SmallestNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
