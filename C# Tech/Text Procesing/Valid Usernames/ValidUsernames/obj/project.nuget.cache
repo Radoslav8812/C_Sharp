@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLYQ9XDUtWOBK5xjPVWz0erfCUY3d2j3lITXdejr1hKkKX65phADTlWUwiHxReZKwfVHf5zkEV2yDlNbn23ltQ==",
+  "success": true,
+  "projectFilePath": "/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Valid Usernames/ValidUsernames/ValidUsernames.csproj",
+  "expectedPackageFiles": [
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/radoslavbogdanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
