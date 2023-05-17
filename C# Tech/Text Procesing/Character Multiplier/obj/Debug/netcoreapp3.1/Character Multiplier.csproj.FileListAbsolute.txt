@@ -1,0 +1,14 @@
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier.deps.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier.runtimeconfig.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier.runtimeconfig.dev.json
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/bin/Debug/netcoreapp3.1/Character Multiplier.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.csproj.AssemblyReference.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.AssemblyInfoInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.AssemblyInfo.cs
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.csproj.CoreCompileInputs.cache
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.dll
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.pdb
+/Users/radoslavbogdanov/Downloads/DEVELOPMENT/C# Projects/Tech Module/Text Procesing/Character Multiplier/Character Multiplier/obj/Debug/netcoreapp3.1/Character Multiplier.genruntimeconfig.cache
